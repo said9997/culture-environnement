@@ -1,0 +1,6 @@
+/src/app/page.tsx -> الصفحة الرئيسية
+/components/Hero.tsx
+/components/Skills.tsx
+/components/Projects.tsx
+/components/Contact.tsx
+/public/images -> صورك
